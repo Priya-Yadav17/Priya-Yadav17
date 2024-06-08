@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya yadav</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxnN3dmcGJ2Nmo2em5k…ucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" style="background:rgba(0,0,0,0)" width="100%" height="100%" alt="Code Coding GIF by EscuelaDevRock">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxnN3dmcGJ2Nmo2em5k…ucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" style="background:rgba(10,0,0,0)" width="100%" height="100%" alt="Code Coding GIF by EscuelaDevRock">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-Yadav17&label=Profile%20views&color=0e75b6&style=flat" alt="Priya-Yadav17" /> </p>
 
