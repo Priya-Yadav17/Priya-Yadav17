@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Priya yadav</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxnN3dmcGJ2Nmo2em5k…ucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" style="background:rgba(10,0,0,0)" width="100%" height="100%" alt="Code Coding GIF by EscuelaDevRock">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJlNmVpbzdtZWE1Ymtoc3NhaXBzeThxbWVsMzY4ZHoxdjMxeWJpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-Yadav17&label=Profile%20views&color=0e75b6&style=flat" alt="Priya-Yadav17" /> </p>
 
 - 🌱 I’m currently learning **Networking(How to create a torrent client)**
 
-- 👨‍💻 My portfolio: <a href="https://amanyadav257.github.io/My-Portfolio">click here</a>
+- 👨‍💻 My portfolio: <a href="https://priya-portfolio17.netlify.app/">click here</a>
 
 - 📫 How to reach me **priyaskb2002@gmail.com**
 
-- 📄 My resume: <a href="https://drive.google.com/file/d/1JE8NZWwA1QKklrL9v4BiKISUCqBRlnUi/view?usp=drive_link">click here</a>
+- 📄 My resume: <a href="https://drive.google.com/file/d/1HtloYBlU90p0FUX1_qjVxtVpwzBTrhw0/view?usp=sharing">click here</a>
 <br>
 <br>
 <br>
